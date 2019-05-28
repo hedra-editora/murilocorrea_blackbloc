@@ -2,4 +2,12 @@
 \hyphenpenalty =10000\thispagestyle {empty}
 \contentsline {chapter}{Apresentação}{7}
 \contentsline {chapter}{Prefácio}{11}
+\contentsline {part}{Filosofia black bloc}{13}
+\contentsline {chapter}{Manual de Junho}{15}
+\contentsline {section}{O Estado contra o black bloc}{16}
+\contentsline {section}{Pensar o black bloc}{20}
+\contentsline {section}{Agenciamentos}{23}
+\contentsline {chapter}{Panis et circencis}{27}
+\contentsline {section}{Tudo começou com o corpo}{27}
+\contentsline {subsection}{Maus modos}{27}
 \contentsfinish 
