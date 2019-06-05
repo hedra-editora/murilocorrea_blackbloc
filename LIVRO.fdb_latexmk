@@ -1,9 +1,9 @@
 # Fdb version 3
-["xdvipdfmx"] 1559056199 "LIVRO.xdv" "LIVRO.pdf" "LIVRO" 1559758475
-  "LIVRO.xdv" 1559056198 2686900 c7acdacc7dc0d5797b63f4f790d9194b "xelatex"
+["xdvipdfmx"] 1559768165 "LIVRO.xdv" "LIVRO.pdf" "LIVRO" 1559768166
+  "LIVRO.xdv" 1559768165 2825188 c63eeecd953edccb0127178b2353be15 "xelatex"
   (generated)
   "LIVRO.pdf"
-["xelatex"] 1559056195 "LIVRO.tex" "LIVRO.xdv" "LIVRO" 1559758475
+["xelatex"] 1559768162 "LIVRO.tex" "LIVRO.xdv" "LIVRO" 1559768166
   "/home/editorial/texmf/tex/aparatos.sty" 1492700150 909 136995c661119a9437b5451e77fe6935 ""
   "/home/editorial/texmf/tex/frontlayout.sty" 1522961914 1454 12134bf9b3d761fd4c3d46f05ff90c4c ""
   "/home/editorial/texmf/tex/graficos.sty" 1510857846 5068 7d4601d85de608fb3bf9e0186715447a ""
@@ -35,7 +35,6 @@
   "/usr/share/texmf-dist/fonts/tfm/public/cm/cmbx7.tfm" 1510784344 1336 3125ccb448c1a09074e3aa4a9832f130 ""
   "/usr/share/texmf-dist/fonts/tfm/public/cm/cmbx8.tfm" 1510784344 1332 1fde11373e221473104d6cc5993f046e ""
   "/usr/share/texmf-dist/fonts/tfm/public/cm/cmbx9.tfm" 1510784344 1328 5442e22a7072966dbaf88ca900acf3f0 ""
-  "/usr/share/texmf-dist/fonts/tfm/public/cm/cmmi10.tfm" 1510784344 1528 abec98dbc43e172678c11b3b9031252a ""
   "/usr/share/texmf-dist/fonts/tfm/public/cm/cmmi6.tfm" 1510784344 1512 f21f83efb36853c0b70002322c1ab3ad ""
   "/usr/share/texmf-dist/fonts/tfm/public/cm/cmmi8.tfm" 1510784344 1520 eccf95517727cb11801f4f1aee3a21b4 ""
   "/usr/share/texmf-dist/fonts/tfm/public/cm/cmmi9.tfm" 1510784344 1524 d89e2d087a9828407a196f428428ef4a ""
@@ -44,7 +43,6 @@
   "/usr/share/texmf-dist/fonts/tfm/public/cm/cmr6.tfm" 1510784344 1300 b62933e007d01cfd073f79b963c01526 ""
   "/usr/share/texmf-dist/fonts/tfm/public/cm/cmr8.tfm" 1510784344 1292 21c1c5bfeaebccffdb478fd231a0997d ""
   "/usr/share/texmf-dist/fonts/tfm/public/cm/cmr9.tfm" 1510784344 1292 6b21b9c2c7bebb38aa2273f7ca0fb3af ""
-  "/usr/share/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm" 1510784344 1124 6c73e740cf17375f03eec0ee63599741 ""
   "/usr/share/texmf-dist/fonts/tfm/public/cm/cmsy6.tfm" 1510784344 1116 933a60c408fc0a863a92debe84b2d294 ""
   "/usr/share/texmf-dist/fonts/tfm/public/cm/cmsy8.tfm" 1510784344 1120 8b7d695260f3cff42e636090a8002094 ""
   "/usr/share/texmf-dist/fonts/tfm/public/cm/cmsy9.tfm" 1510784344 1116 25a7bf822c58caf309a702ef79f4afbb ""
@@ -151,23 +149,23 @@
   "/usr/share/texmf-dist/web2c/texmf.cnf" 1510784374 32585 d82bbcf7626b7842c87671687479e852 ""
   "/var/lib/texmf/web2c/xetex/xelatex.fmt" 1516130245 4066334 455a595bfa61ab60d620b040bfc81aa6 ""
   "CIRCUITO.jpg" 1533833372 185488 00e49767905e0d07d9e5eb5b20156085 ""
-  "INPUTS.aux" 1559056198 6114 7ad00c98d6ef8c825cd4c01c2ee58511 ""
+  "INPUTS.aux" 1559768165 6051 ca73a726f9d7510e48d30b4979a45d9b ""
   "INPUTS.tex" 1559055017 49 e2c82c43300e278d45203251f29467e3 ""
-  "LIVRO.aux" 1559056198 476 3ffefdd6cef7c61426810d84141e5a75 ""
+  "LIVRO.aux" 1559768165 476 63471a1e7ab783f3cdc1ccbb17b43820 ""
   "LIVRO.tex" 1559055143 2270 c73977684191bfa951263f4e57280b82 ""
-  "LIVRO.toc" 1559056198 2897 47de7da2702aa9118f7cdcf8e9511fae ""
-  "ORIGINAIS.tex" 1559056193 265602 e57a35f683735219f6863f5b315f0dcf ""
+  "LIVRO.toc" 1559768165 2837 d56ae55b256097c45e6782014eafdc22 ""
+  "ORIGINAIS.tex" 1559768150 266961 7a128dcccf7d4134679e792e00def764 ""
   "PRETAS.tex" 1558990636 134 d91d0611fd9f3f887424e61cb7adf623 ""
   "fichatecnica.sty" 1559054982 2249 4087e6ebea3467edf7977e02e862228a ""
   "fronthedra.tex" 1541104259 6312 821e71f3dc007358509e7ef0f9e4b440 ""
-  "gitrevisioninfo.sty" 1559758472 35 5225de23ccc6a368627e924df15b35be ""
+  "gitrevisioninfo.sty" 1559768155 35 3fcc0b1813ab2f76b66b43334270d79b ""
   "hedraextra.sty" 1539636338 6390 65a9b8588c7612c4e2512564697fa8c1 ""
   "hedraoptions.sty" 1531242161 3612 90c10c03eba9d99333f661bc5b2a212a ""
   "hedrastyles.sty" 1539636338 8864 1415f68b03c9b11306f4e19140afce23 ""
   "tipografia.sty" 1531242161 9859 f06ffe5c85c5828660a90c61e735ed72 ""
   (generated)
   "LIVRO.xdv"
-  "LIVRO.toc"
   "LIVRO.aux"
   "INPUTS.aux"
+  "LIVRO.toc"
   "LIVRO.log"
