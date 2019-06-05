@@ -33,6 +33,13 @@
 \skip\footins=10mm\@plus3mm\@minus2mm
 \makeatother
 
+\def\blankpage{%
+      \clearpage%
+      \thispagestyle{empty}%
+      \addtocounter{page}{-1}%
+      \null%
+      \clearpage}
+
 \makeatletter
 \newenvironment{absolutelynopagebreak}
   {\par\nobreak\vfil\penalty0\vfilneg

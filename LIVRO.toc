@@ -1,13 +1,50 @@
 \select@language {brazilian}
 \hyphenpenalty =10000\thispagestyle {empty}
-\contentsline {chapter}{Apresentação}{7}
-\contentsline {chapter}{Prefácio}{11}
-\contentsline {part}{Filosofia black bloc}{13}
-\contentsline {chapter}{Manual de Junho}{15}
-\contentsline {section}{O Estado contra o black bloc}{16}
-\contentsline {section}{Pensar o black bloc}{20}
-\contentsline {section}{Agenciamentos}{23}
-\contentsline {chapter}{Panis et circencis}{27}
-\contentsline {section}{Tudo começou com o corpo}{27}
-\contentsline {subsection}{Maus modos}{27}
+\contentsline {chapter}{Apresentação}{9}
+\contentsline {chapter}{Prefácio}{13}
+\contentsline {part}{Filosofia black bloc}{15}
+\contentsline {chapter}{Manual de Junho}{17}
+\contentsline {section}{O Estado contra o black bloc}{18}
+\contentsline {section}{Pensar o black bloc}{22}
+\contentsline {section}{Agenciamentos}{25}
+\contentsline {chapter}{Panis et circencis}{29}
+\contentsline {section}{Tudo começou com o corpo}{29}
+\contentsline {subsection}{Maus modos}{29}
+\contentsline {subsection}{As pessoas na sala de jantar}{30}
+\contentsline {section}{Soltei os tigres e os leões nos quintais}{38}
+\contentsline {subsection}{Mapa}{38}
+\contentsline {chapter}{Contra o rosto}{43}
+\contentsline {section}{\dots {} e o que me resta é só um gemido}{43}
+\contentsline {section}{Minh'alma cativa}{44}
+\contentsline {section}{Quebrei a lança, lancei no espaço: um grito}{51}
+\contentsline {section}{``Não tinha rosto. Eu oferecia meu corpo''}{56}
+\contentsline {chapter}{Filosofia dos corpos misturados}{61}
+\contentsline {section}{Vamos pôr um cu na vitrine\textsuperscript {\emph {\FN@sf@gobble@opt {Frase atribuída por Tom Zé, em entrevista ao Jornal Folha de São Paulo, a Décio Pignatari, sobre o projeto da capa de ``Todos os olhos'', \emph {de }1973. (Folha 2001)}}}}{61}
+\contentsline {subsection}{A história do olho}{61}
+\contentsline {subsection}{Todos os olhos se voltam para mim}{63}
+\contentsline {section}{Olho por olho\textsuperscript {\emph {\FN@sf@gobble@opt {Poema de Augusto de Campos, de 1964, que ilustrava, remodelado, a contracapa de ``Todos os olhos'' (1973).}}}}{70}
+\contentsline {subsection}{Talião}{70}
+\contentsline {subsection}{Cademar(ildo) que não vem?}{71}
+\contentsline {chapter}{Beaglepolitik}{81}
+\contentsline {section}{O corpo é um bicho}{81}
+\contentsline {subsection}{Seu corpo vai se transformar num raio}{82}
+\contentsline {subsection}{Teoria dos corpos anarquistas}{85}
+\contentsline {subsection}{Queremos guerra}{88}
+\contentsline {section}{O homem é o fuleco do homem}{94}
+\contentsline {subsection}{Tática}{94}
+\contentsline {subsection}{Dois eventos proliferantes}{98}
+\contentsline {chapter}{Etologia black bloc}{105}
+\contentsline {section}{Eu digo não}{105}
+\contentsline {subsection}{``Amanhã vai ser maior''}{105}
+\contentsline {subsection}{Querendo policiar}{110}
+\contentsline {section}{Eu digo não ao não}{113}
+\contentsline {subsection}{Happening}{113}
+\contentsline {subsection}{Ethica}{115}
+\contentsline {subsection}{Teoria da ação direta}{118}
+\contentsline {subsection}{Lixo lógico}{122}
+\contentsline {chapter}{Devir black bloc}{127}
+\contentsline {section}{Devir"-ninguém}{130}
+\contentsline {section}{Devir"-qualquer um}{134}
+\contentsline {section}{Devir"-todo mundo}{137}
+\contentsline {chapter}{Procuram"-se armas}{143}
 \contentsfinish 
