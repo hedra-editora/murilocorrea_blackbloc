@@ -22,17 +22,17 @@
 \contentsline {section}{Vamos pôr um cu na vitrine\FN@sf@gobble@opt {Frase atribuída por Tom Zé, em entrevista ao Jornal Folha de São Paulo, a Décio Pignatari, sobre o projeto da capa de ``Todos os olhos'', de 1973. (Folha 2001)}}{65}
 \contentsline {subsection}{A história do olho}{65}
 \contentsline {subsection}{Todos os olhos se voltam para mim}{67}
-\contentsline {section}{Olho por olho\FN@sf@gobble@opt {Poema de Augusto de Campos, de 1964, que ilustrava, remodelado, a contracapa de ``Todos os olhos'' (1973).}}{76}
-\contentsline {subsection}{Talião}{76}
-\contentsline {subsection}{Cademar(ildo) que não vem?}{77}
+\contentsline {section}{Olho por olho\FN@sf@gobble@opt {Poema de Augusto de Campos, de 1964, que ilustrava, remodelado, a contracapa de ``Todos os olhos'' (1973).}}{75}
+\contentsline {subsection}{Talião}{75}
+\contentsline {subsection}{Cademar(ildo) que não vem?}{76}
 \contentsline {chapter}{Beaglepolitik}{85}
 \contentsline {section}{O corpo é um bicho}{85}
 \contentsline {subsection}{Seu corpo vai se transformar num raio}{86}
 \contentsline {subsection}{Teoria dos corpos anarquistas}{89}
 \contentsline {subsection}{Queremos guerra}{92}
-\contentsline {section}{O homem é o fuleco do homem}{98}
+\contentsline {section}{O homem é o fuleco do homem}{97}
 \contentsline {subsection}{Tática}{98}
-\contentsline {subsection}{Dois eventos proliferantes}{102}
+\contentsline {subsection}{Dois eventos proliferantes}{101}
 \contentsline {chapter}{Etologia black bloc}{109}
 \contentsline {section}{Eu digo não}{109}
 \contentsline {subsection}{``Amanhã vai ser maior''}{109}
