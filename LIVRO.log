@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.0.4 (TeX Live 2017/Arch Linux)  (format=lualatex 2018.1.16)  2 SEP 2019 17:45
+This is LuaTeX, Version 1.0.4 (TeX Live 2017/Arch Linux)  (format=lualatex 2018.1.16)  3 SEP 2019 18:22
  restricted system commands enabled.
 **LIVRO.tex
 (./LIVRO.tex
@@ -34,7 +34,7 @@ Inserting `luaotfload.aux.set_capheight' at position 3 in `luaotfload.patch_font
 '.
 Inserting `luaotfload.rewrite_fontname' at position 4 in `luaotfload.patch_font'
 .
-luaotfload | main : initialization completed in 0.213 seconds
+luaotfload | main : initialization completed in 0.215 seconds
 Babel <3.15> and hyphenation patterns for 1 language(s) loaded.
 (/usr/share/texmf-dist/tex/latex/memoir/memoir.cls
 Document Class: memoir 2016/05/16 v3.7f configurable book, report, article docum
@@ -1753,30 +1753,30 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 [37] [38] [39] [40] [41] [42] [43] [44] [45] [46
 
 ] [47] [48] [49] [50] [51]
-[52] [53] [54] [55] [56] [57] [58] [59] [60] [61] [62] [63] [64] [65] [66
+[52] [53] [54] [55] [56] [57] [58] [59] [60] [61] [62] [63] [64] [65
+
+] [66]
+[67] [68] [69] [70] [71] [72] [73] [74] [75] [76] [77] [78] [79] [80] [81]
+[82] [83] [84] [85
+
+] [86] [87] [88] [89] [90] [91] [92] [93] [94] [95] [96]
+[97] [98] [99] [100] [101] [102] [103] [104] [105] [106] [107] [108] [109
 
 ]
-[67] [68] [69] [70] [71] [72] [73] [74] [75] [76] [77] [78] [79] [80] [81]
-[82] [83] [84] [85] [86] [87
+[110] [111] [112] [113] [114] [115] [116] [117] [118] [119] [120] [121]
+[122] [123] [124] [125] [126] [127] [128] [129] [130
 
-] [88] [89] [90] [91] [92] [93] [94] [95] [96]
-[97] [98] [99] [100] [101] [102] [103] [104] [105] [106] [107] [108] [109]
-[110] [111
-
-] [112] [113] [114] [115] [116] [117] [118] [119] [120] [121]
-[122] [123] [124] [125] [126] [127] [128] [129] [130] [131] [132
-
-] [133]
+] [131] [132] [133]
 [134] [135] [136] [137] [138] [139] [140] [141] [142] [143] [144] [145]
-[146] [147] [148] [149
+[146] [147
 
-] [150] [151] [152] [153] [154] [155] [156])) [157]
+] [148] [149] [150] [151] [152] [153] [154])) [155]
 
 AED: lastpage setting LastPage
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <9> on input line 90.
 (load luc: /home/editorial/.texlive/texmf-var/luatex-cache/generic/fonts/otl/lmm
-ono9-regular.luc) [158
+ono9-regular.luc) [156
 
 
 ]
@@ -1790,15 +1790,15 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 )
 
 Here is how much of LuaTeX's memory you used:
- 24368 strings out of 494483
+ 24364 strings out of 494483
  4441869,794899 words of node,token memory allocated
- 4092354 words of node memory still in use:
-   4 hlist, 1 vlist, 1 rule, 33 glue, 1 penalty, 673710 glyph, 20310 attribute, 
-195 glue_spec, 4062 attribute_list, 3 shape, 2 write nodes
-   avail lists: 1:5,2:795,3:141,4:61,5:403,6:802,7:1459,8:113,9:257,10:30,11:650
+ 4088803 words of node memory still in use:
+   4 hlist, 1 vlist, 1 rule, 34 glue, 1 penalty, 673197 glyph, 20110 attribute, 
+195 glue_spec, 4022 attribute_list, 3 shape, 2 write nodes
+   avail lists: 1:5,2:795,3:142,4:60,5:403,6:802,7:1459,8:113,9:257,10:30,11:650
 
- 27356 multiletter control sequences out of 65536+600000
- 100 fonts using 20260351 bytes
+ 27352 multiletter control sequences out of 65536+600000
+ 100 fonts using 20260555 bytes
  50i,12n,69p,1356b,420s stack positions out of 5000i,500n,10000p,200000b,100000s
 {/usr/share/texmf-dist/fonts/enc/dvips/adforn/OrnementsADF.enc}</usr/share/texmf
 -dist/fonts/opentype/public/libertine/LinLibertine_RI.otf></usr/share/texmf-dist
@@ -1808,10 +1808,10 @@ type/public/lm/lmmono8-regular.otf></usr/share/texmf-dist/fonts/type1/arkandis/a
 dforn/OrnementsADF.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmm
 i8.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/latxfont/lcirclew.pfb>
 
-Output written on LIVRO.pdf (158 pages, 670833 bytes).
+Output written on LIVRO.pdf (156 pages, 669215 bytes).
 
-PDF statistics: 542 PDF objects out of 1000 (max. 8388607)
- 362 compressed objects within 4 object streams
+PDF statistics: 536 PDF objects out of 1000 (max. 8388607)
+ 358 compressed objects within 4 object streams
  0 named destinations out of 1000 (max. 131072)
  1 words of extra memory for PDF output out of 10000 (max. 100000000)
 

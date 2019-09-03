@@ -18,33 +18,33 @@
 \contentsline {section}{Minh'alma cativa}{48}
 \contentsline {section}{Quebrei a lança, lancei no espaço: um grito}{56}
 \contentsline {section}{``Não tinha rosto. Eu oferecia meu corpo''}{61}
-\contentsline {chapter}{Filosofia dos corpos misturados}{67}
-\contentsline {section}{Vamos pôr um cu na vitrine\FN@sf@gobble@opt {Frase atribuída por Tom Zé, em entrevista ao Jornal Folha de São Paulo, a Décio Pignatari, sobre o projeto da capa de ``Todos os olhos'', de 1973. (Folha 2001)}}{67}
-\contentsline {subsection}{A história do olho}{67}
-\contentsline {subsection}{Todos os olhos se voltam para mim}{69}
-\contentsline {section}{Olho por olho\FN@sf@gobble@opt {Poema de Augusto de Campos, de 1964, que ilustrava, remodelado, a contracapa de ``Todos os olhos'' (1973).}}{77}
-\contentsline {subsection}{Talião}{77}
-\contentsline {subsection}{Cademar(ildo) que não vem?}{78}
-\contentsline {chapter}{Beaglepolitik}{87}
-\contentsline {section}{O corpo é um bicho}{87}
-\contentsline {subsection}{Seu corpo vai se transformar num raio}{88}
-\contentsline {subsection}{Teoria dos corpos anarquistas}{91}
-\contentsline {subsection}{Queremos guerra}{94}
-\contentsline {section}{O homem é o fuleco do homem}{99}
-\contentsline {subsection}{Tática}{100}
-\contentsline {subsection}{Dois eventos proliferantes}{103}
-\contentsline {chapter}{Etologia black bloc}{111}
-\contentsline {section}{Eu digo não}{111}
-\contentsline {subsection}{``Amanhã vai ser maior''}{111}
-\contentsline {subsection}{Querendo policiar}{116}
-\contentsline {section}{Eu digo não ao não}{119}
-\contentsline {subsection}{Happening}{119}
-\contentsline {subsection}{Ethica}{121}
-\contentsline {subsection}{Teoria da ação direta}{124}
-\contentsline {subsection}{Lixo lógico}{128}
-\contentsline {chapter}{Devir black bloc}{133}
-\contentsline {section}{Devir"-ninguém}{136}
-\contentsline {section}{Devir"-qualquer um}{140}
-\contentsline {section}{Devir"-todo mundo}{143}
-\contentsline {chapter}{Procuram"-se armas}{149}
+\contentsline {chapter}{Filosofia dos corpos misturados}{65}
+\contentsline {section}{Vamos pôr um cu na vitrine\FN@sf@gobble@opt {Frase atribuída por Tom Zé, em entrevista ao Jornal Folha de São Paulo, a Décio Pignatari, sobre o projeto da capa de ``Todos os olhos'', de 1973. (Folha 2001)}}{65}
+\contentsline {subsection}{A história do olho}{65}
+\contentsline {subsection}{Todos os olhos se voltam para mim}{67}
+\contentsline {section}{Olho por olho\FN@sf@gobble@opt {Poema de Augusto de Campos, de 1964, que ilustrava, remodelado, a contracapa de ``Todos os olhos'' (1973).}}{75}
+\contentsline {subsection}{Talião}{75}
+\contentsline {subsection}{Cademar(ildo) que não vem?}{76}
+\contentsline {chapter}{Beaglepolitik}{85}
+\contentsline {section}{O corpo é um bicho}{85}
+\contentsline {subsection}{Seu corpo vai se transformar num raio}{86}
+\contentsline {subsection}{Teoria dos corpos anarquistas}{89}
+\contentsline {subsection}{Queremos guerra}{92}
+\contentsline {section}{O homem é o fuleco do homem}{97}
+\contentsline {subsection}{Tática}{98}
+\contentsline {subsection}{Dois eventos proliferantes}{101}
+\contentsline {chapter}{Etologia black bloc}{109}
+\contentsline {section}{Eu digo não}{109}
+\contentsline {subsection}{``Amanhã vai ser maior''}{109}
+\contentsline {subsection}{Querendo policiar}{114}
+\contentsline {section}{Eu digo não ao não}{117}
+\contentsline {subsection}{Happening}{117}
+\contentsline {subsection}{Ethica}{119}
+\contentsline {subsection}{Teoria da ação direta}{122}
+\contentsline {subsection}{Lixo lógico}{126}
+\contentsline {chapter}{Devir black bloc}{131}
+\contentsline {section}{Devir"-ninguém}{134}
+\contentsline {section}{Devir"-qualquer um}{138}
+\contentsline {section}{Devir"-todo mundo}{141}
+\contentsline {chapter}{Procuram"-se armas}{147}
 \contentsfinish 
