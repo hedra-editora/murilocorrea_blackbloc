@@ -40,7 +40,7 @@
 \contentsline {section}{Eu digo não ao não}{117}
 \contentsline {subsection}{Happening}{117}
 \contentsline {subsection}{Ethica}{119}
-\contentsline {subsection}{Teoria da ação direta}{122}
+\contentsline {subsection}{Teoria da ação direta}{123}
 \contentsline {subsection}{Lixo lógico}{126}
 \contentsline {chapter}{Devir black bloc}{131}
 \contentsline {section}{Devir"-ninguém}{134}
