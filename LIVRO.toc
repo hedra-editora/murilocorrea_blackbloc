@@ -47,4 +47,5 @@
 \contentsline {section}{Devir"-qualquer um}{138}
 \contentsline {section}{Devir"-todo mundo}{141}
 \contentsline {chapter}{Procuram"-se armas}{147}
+\contentsline {section}{Créditos das imagens}{155}
 \contentsfinish 
