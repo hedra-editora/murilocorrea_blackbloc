@@ -1,7 +1,7 @@
 \select@language {brazilian}
 \hyphenpenalty =10000\thispagestyle {empty}
-\contentsline {chapter}{Apresentação}{11}
-\contentsline {chapter}{Prefácio}{15}
+\contentsline {chapter}{Apresentação, \relax \fontsize {8}{9.5}\selectfont \abovedisplayskip 6\p@ plus2\p@ minus4\p@ \abovedisplayshortskip \z@ plus\p@ \belowdisplayshortskip 3\p@ plus\p@ minus2\p@ \def \leftmargin \leftmargini \parsep \parsepi \topsep \topsepi \itemsep \itemsepi {\leftmargin \leftmargini \topsep 3\p@ plus\p@ minus\p@ \parsep 2\p@ plus\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip {\emph {por Bruno Cava}}}{11}
+\contentsline {chapter}{Prefácio, \relax \fontsize {8}{9.5}\selectfont \abovedisplayskip 6\p@ plus2\p@ minus4\p@ \abovedisplayshortskip \z@ plus\p@ \belowdisplayshortskip 3\p@ plus\p@ minus2\p@ \def \leftmargin \leftmargini \parsep \parsepi \topsep \topsepi \itemsep \itemsepi {\leftmargin \leftmargini \topsep 3\p@ plus\p@ minus\p@ \parsep 2\p@ plus\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip {\emph {por Peter Pál Pelbart}}}{15}
 \contentsline {part}{Filosofia black bloc}{17}
 \contentsline {chapter}{Manual de Junho}{19}
 \contentsline {section}{O Estado contra o black bloc}{20}
@@ -47,5 +47,4 @@
 \contentsline {section}{Devir"-qualquer um}{138}
 \contentsline {section}{Devir"-todo mundo}{141}
 \contentsline {chapter}{Procuram"-se armas}{147}
-\contentsline {section}{Créditos das imagens}{155}
 \contentsfinish 
