@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.0.4 (TeX Live 2017/Arch Linux)  (format=lualatex 2018.1.16)  14 OCT 2019 16:07
+This is LuaTeX, Version 1.0.4 (TeX Live 2017/Arch Linux)  (format=lualatex 2018.1.16)  16 OCT 2019 16:42
  restricted system commands enabled.
 **LIVRO.tex
 (./LIVRO.tex
@@ -34,7 +34,7 @@ Inserting `luaotfload.aux.set_capheight' at position 3 in `luaotfload.patch_font
 '.
 Inserting `luaotfload.rewrite_fontname' at position 4 in `luaotfload.patch_font'
 .
-luaotfload | main : initialization completed in 0.231 seconds
+luaotfload | main : initialization completed in 0.209 seconds
 Babel <3.15> and hyphenation patterns for 1 language(s) loaded.
 (/usr/share/texmf-dist/tex/latex/memoir/memoir.cls
 Document Class: memoir 2016/05/16 v3.7f configurable book, report, article docum
@@ -1891,13 +1891,13 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 Here is how much of LuaTeX's memory you used:
  24504 strings out of 494483
  4441978,794899 words of node,token memory allocated
- 4092759 words of node memory still in use:
-   4 hlist, 1 vlist, 1 rule, 36 glue, 1 penalty, 673398 glyph, 21250 attribute, 
+ 4092255 words of node memory still in use:
+   4 hlist, 1 vlist, 1 rule, 36 glue, 1 penalty, 673314 glyph, 21250 attribute, 
 195 glue_spec, 4250 attribute_list, 3 shape, 2 write nodes
    avail lists: 1:5,2:789,3:146,4:62,5:417,6:851,7:1523,8:113,9:257,10:30,11:611
 
  27416 multiletter control sequences out of 65536+600000
- 107 fonts using 21008711 bytes
+ 107 fonts using 21008779 bytes
  50i,12n,69p,1356b,428s stack positions out of 5000i,500n,10000p,200000b,100000s
 {/usr/share/texmf-dist/fonts/enc/dvips/adforn/OrnementsADF.enc}</usr/share/texmf
 -dist/fonts/opentype/public/libertine/LinLibertine_RI.otf></usr/share/texmf-dist
@@ -1907,7 +1907,7 @@ type/public/lm/lmmono8-regular.otf></usr/share/texmf-dist/fonts/type1/arkandis/a
 dforn/OrnementsADF.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmm
 i8.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/latxfont/lcirclew.pfb>
 
-Output written on LIVRO.pdf (166 pages, 5172360 bytes).
+Output written on LIVRO.pdf (166 pages, 5172211 bytes).
 
 PDF statistics: 578 PDF objects out of 1000 (max. 8388607)
  379 compressed objects within 4 object streams
