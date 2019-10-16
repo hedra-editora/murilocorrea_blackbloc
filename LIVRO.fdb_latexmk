@@ -1,5 +1,5 @@
 # Fdb version 3
-["lualatex"] 1569877122 "LIVRO.tex" "LIVRO.pdf" "LIVRO" 1569877129
+["lualatex"] 1571080026 "LIVRO.tex" "LIVRO.pdf" "LIVRO" 1571080033
   "/etc/texmf/tex/generic/config/language.dat" 1510784374 6367 641735e2f987308ac3125ca745743b9d ""
   "/home/editorial/.texlive/texmf-var/luatex-cache/generic/fonts/otl/linlibertine-r.luc" 1556209800 330551 d12977d7bdbdf3a8c84dfb9092c3ccea ""
   "/home/editorial/.texlive/texmf-var/luatex-cache/generic/fonts/otl/linlibertine-rb.luc" 1556209801 287951 05a753757cb80cdd1665c6086d8a0543 ""
@@ -228,7 +228,7 @@
   "/usr/share/texmf-dist/tex/plain/ifetex/ifetex.tex" 1510784348 1166 4b66ad073c6073cb1bde651c18b7dbb2 ""
   "/var/lib/texmf/web2c/luatex/lualatex.fmt" 1516130248 1350732 045cf0d50c464bdae2d15bcdf369a573 ""
   "CIRCUITO.jpg" 1533833372 185488 00e49767905e0d07d9e5eb5b20156085 ""
-  "INPUTS.aux" 1569877129 6754 974c31d250d9d7af238eed856c2bcafb ""
+  "INPUTS.aux" 1571080033 6469 fb999250e8ce79c7efbeaf57ce3b4aec ""
   "INPUTS.tex" 1559055017 49 e2c82c43300e278d45203251f29467e3 ""
   "Imgs/img10.jpg" 1569879274 51807 f5dece1a52b0300aef9f2e30ca7c6fb3 ""
   "Imgs/img11.jpg" 1569879274 364301 3fb540cfa89a9662ad040b1d5ac1a58e ""
@@ -241,10 +241,10 @@
   "Imgs/img7.jpg" 1569879274 100619 eeff6130080b170dc4edc4c34062c9ce ""
   "Imgs/img8.jpg" 1569879274 162068 b696d1f9cd3953671ed252a7b14c0786 ""
   "Imgs/img9.jpg" 1569879274 148056 826e5f617dc2295c39098624a89d01c8 ""
-  "LIVRO.aux" 1569877129 515 80650e8f96d17d2182e2c4ec6f02888c ""
+  "LIVRO.aux" 1571080033 515 80650e8f96d17d2182e2c4ec6f02888c ""
   "LIVRO.tex" 1567792063 2302 4737b71023d41a46e15f90bcac88f90d ""
-  "LIVRO.toc" 1569877129 3641 f40e3a296df1a79279f170aa4dcb6701 ""
-  "ORIGINAIS.tex" 1569877119 266970 120c7ccf54b991e5021d75bf7cc7ecd9 ""
+  "LIVRO.toc" 1571080033 3356 832f9595c154ef53d342e8f4abf93792 ""
+  "ORIGINAIS.tex" 1571080014 267078 7fb930a96cfa62fb169d0a4a08c92285 ""
   "PRETAS.tex" 1558990636 134 d91d0611fd9f3f887424e61cb7adf623 ""
   "fichatecnica.sty" 1559054982 2249 4087e6ebea3467edf7977e02e862228a ""
   "fronthedra.tex" 1568306902 6084 65cd24a2bba42cafd5a68435a9550595 ""
@@ -254,8 +254,8 @@
   "hedrastyles.sty" 1539636338 8864 1415f68b03c9b11306f4e19140afce23 ""
   "tipografia.sty" 1567020483 9907 baf9582d169519b5dcad3d86821ad837 ""
   (generated)
-  "LIVRO.aux"
-  "LIVRO.log"
+  "LIVRO.pdf"
   "LIVRO.toc"
   "INPUTS.aux"
-  "LIVRO.pdf"
+  "LIVRO.log"
+  "LIVRO.aux"

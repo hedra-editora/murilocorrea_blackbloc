@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.0.4 (TeX Live 2017/Arch Linux)  (format=lualatex 2018.1.16)  30 SEP 2019 17:58
+This is LuaTeX, Version 1.0.4 (TeX Live 2017/Arch Linux)  (format=lualatex 2018.1.16)  14 OCT 2019 16:07
  restricted system commands enabled.
 **LIVRO.tex
 (./LIVRO.tex
@@ -34,7 +34,7 @@ Inserting `luaotfload.aux.set_capheight' at position 3 in `luaotfload.patch_font
 '.
 Inserting `luaotfload.rewrite_fontname' at position 4 in `luaotfload.patch_font'
 .
-luaotfload | main : initialization completed in 0.212 seconds
+luaotfload | main : initialization completed in 0.231 seconds
 Babel <3.15> and hyphenation patterns for 1 language(s) loaded.
 (/usr/share/texmf-dist/tex/latex/memoir/memoir.cls
 Document Class: memoir 2016/05/16 v3.7f configurable book, report, article docum
@@ -1728,12 +1728,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <8> on input line 2.
 ) [4
 
-] (./LIVRO.toc
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 22.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <9> on input line 22.
- [5]) [6]
+] (./LIVRO.toc [5]) [6]
 \openout2 = INPUTS.aux
  (./INPUTS.tex (./ORIGINAIS.tex
 [7
@@ -1742,7 +1737,10 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 
 ] [8] [9] [10
 
-] [11] [12] [13] [14
+]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 68.
+ [11] [12] [13] [14
 
 ] [15] [16] [17
 
@@ -1808,10 +1806,10 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 <Imgs/img7.jpg, id=255, pagebox=cropbox, 673.51625pt x 466.74374pt>
 File: Imgs/img7.jpg Graphic file (type jpg)
 <use Imgs/img7.jpg>
-Package luatex.def Info: Imgs/img7.jpg  used on input line 1947. on input line 1
-947.
+Package luatex.def Info: Imgs/img7.jpg  used on input line 1949. on input line 1
+949.
 Package luatex.def Info: Requested size: 256.07243pt x 173.56136pt on input line
- 1947.
+ 1949.
  [78] [79<./Imgs/img7.jpg>] [80]
 [81] [82] [83] [84] [85] [86] [87] [88
 
@@ -1819,19 +1817,19 @@ Package luatex.def Info: Requested size: 256.07243pt x 173.56136pt on input line
 <Imgs/img8.jpg, id=290, pagebox=cropbox, 803.0pt x 602.25pt>
 File: Imgs/img8.jpg Graphic file (type jpg)
 <use Imgs/img8.jpg>
-Package luatex.def Info: Imgs/img8.jpg  used on input line 2211. on input line 2
-211.
+Package luatex.def Info: Imgs/img8.jpg  used on input line 2213. on input line 2
+213.
 Package luatex.def Info: Requested size: 256.08305pt x 173.56364pt on input line
- 2211.
+ 2213.
  [89<./Imgs/img8.jpg>] [90] [91]
 [92] [93] [94] [95] [96] [97] [98] [99] [100] [101]
 <Imgs/img9.jpg, id=333, pagebox=cropbox, 702.625pt x 468.75125pt>
 File: Imgs/img9.jpg Graphic file (type jpg)
 <use Imgs/img9.jpg>
-Package luatex.def Info: Imgs/img9.jpg  used on input line 2610. on input line 2
-610.
+Package luatex.def Info: Imgs/img9.jpg  used on input line 2612. on input line 2
+612.
 Package luatex.def Info: Requested size: 256.07538pt x 173.55682pt on input line
- 2610.
+ 2612.
  [102<./Imgs/img9.jpg>]
 [103] [104] [105] [106] [107] [108] [109] [110] [111] [112] [113] [114
 
@@ -1839,19 +1837,19 @@ Package luatex.def Info: Requested size: 256.07538pt x 173.55682pt on input line
 <Imgs/img10.jpg, id=374, pagebox=cropbox, 434.62375pt x 652.4375pt>
 File: Imgs/img10.jpg Graphic file (type jpg)
 <use Imgs/img10.jpg>
-Package luatex.def Info: Imgs/img10.jpg  used on input line 2940. on input line 
-2940.
+Package luatex.def Info: Imgs/img10.jpg  used on input line 2942. on input line 
+2942.
 Package luatex.def Info: Requested size: 227.62381pt x 304.45547pt on input line
- 2940.
+ 2942.
 
 [115<./Imgs/img10.jpg>] [116] [117] [118] [119] [120] [121] [122] [123]
 <Imgs/img11.jpg, id=403, pagebox=cropbox, 642.4pt x 963.6pt>
 File: Imgs/img11.jpg Graphic file (type jpg)
 <use Imgs/img11.jpg>
-Package luatex.def Info: Imgs/img11.jpg  used on input line 3207. on input line 
-3207.
+Package luatex.def Info: Imgs/img11.jpg  used on input line 3209. on input line 
+3209.
 Package luatex.def Info: Requested size: 256.08305pt x 310.69614pt on input line
- 3207.
+ 3209.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
@@ -1863,10 +1861,10 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 <Imgs/img12.jpg, id=450, pagebox=cropbox, 572.1375pt x 963.6pt>
 File: Imgs/img12.jpg Graphic file (type jpg)
 <use Imgs/img12.jpg>
-Package luatex.def Info: Imgs/img12.jpg  used on input line 3589. on input line 
-3589.
+Package luatex.def Info: Imgs/img12.jpg  used on input line 3591. on input line 
+3591.
 Package luatex.def Info: Requested size: 199.16858pt x 332.89816pt on input line
- 3589.
+ 3591.
  [139<./Imgs/img12.jpg>] [140] [141]
 [142] [143] [144] [145] [146] [147] [148] [149] [150] [151] [152] [153]
 [154] [155] [156
@@ -1874,6 +1872,8 @@ Package luatex.def Info: Requested size: 199.16858pt x 332.89816pt on input line
 ] [157] [158] [159] [160] [161] [162] [163] [164])) [165]
 
 AED: lastpage setting LastPage
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <9> on input line 92.
 (load luc: /home/editorial/.texlive/texmf-var/luatex-cache/generic/fonts/otl/lmm
 ono9-regular.luc) [166
 
@@ -1890,14 +1890,14 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 Here is how much of LuaTeX's memory you used:
  24504 strings out of 494483
- 4441738,794899 words of node,token memory allocated
- 4103821 words of node memory still in use:
-   4 hlist, 1 vlist, 1 rule, 40 glue, 1 penalty, 675213 glyph, 21310 attribute, 
-195 glue_spec, 4262 attribute_list, 3 shape, 2 write nodes
-   avail lists: 1:3,2:789,3:125,4:49,5:417,6:843,7:1523,8:100,9:242,10:30,11:611
+ 4441978,794899 words of node,token memory allocated
+ 4092759 words of node memory still in use:
+   4 hlist, 1 vlist, 1 rule, 36 glue, 1 penalty, 673398 glyph, 21250 attribute, 
+195 glue_spec, 4250 attribute_list, 3 shape, 2 write nodes
+   avail lists: 1:5,2:789,3:146,4:62,5:417,6:851,7:1523,8:113,9:257,10:30,11:611
 
  27416 multiletter control sequences out of 65536+600000
- 107 fonts using 21008847 bytes
+ 107 fonts using 21008711 bytes
  50i,12n,69p,1356b,428s stack positions out of 5000i,500n,10000p,200000b,100000s
 {/usr/share/texmf-dist/fonts/enc/dvips/adforn/OrnementsADF.enc}</usr/share/texmf
 -dist/fonts/opentype/public/libertine/LinLibertine_RI.otf></usr/share/texmf-dist
@@ -1907,7 +1907,7 @@ type/public/lm/lmmono8-regular.otf></usr/share/texmf-dist/fonts/type1/arkandis/a
 dforn/OrnementsADF.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmm
 i8.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/latxfont/lcirclew.pfb>
 
-Output written on LIVRO.pdf (166 pages, 5173850 bytes).
+Output written on LIVRO.pdf (166 pages, 5172360 bytes).
 
 PDF statistics: 578 PDF objects out of 1000 (max. 8388607)
  379 compressed objects within 4 object streams
