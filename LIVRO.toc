@@ -19,10 +19,10 @@
 \contentsline {section}{Quebrei a lança, lancei no espaço: um grito}{58}
 \contentsline {section}{``Não tinha rosto. Eu oferecia meu corpo''}{62}
 \contentsline {chapter}{Filosofia dos corpos misturados}{67}
-\contentsline {section}{Vamos pôr um cu na vitrine\footnote {Frase atribuída a Décio Pignatari por Tom Zé, em entrevista à Folha de São Paulo, sobre o projeto da capa de ``Todos os olhos'', de 1973. (Folha 2001)}}{68}
+\contentsline {section}{Vamos pôr um cu na vitrine}{68}
 \contentsline {subsection}{A história do olho}{68}
 \contentsline {subsection}{Todos os olhos se voltam para mim}{70}
-\contentsline {section}{Olho por olho\footnote {Poema de Augusto de Campos, de 1964, que ilustrava, remodelado, a contracapa de ``Todos os olhos'' (1973).}}{79}
+\contentsline {section}{Olho por olho}{79}
 \contentsline {subsection}{Talião}{79}
 \contentsline {subsection}{Cademar(ildo) que não vem?}{80}
 \contentsline {chapter}{Beaglepolitik}{89}
