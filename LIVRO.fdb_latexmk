@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1581433635 "LIVRO.tex" "LIVRO.pdf" "LIVRO" 1581455786
+["pdflatex"] 1582744410 "LIVRO.tex" "LIVRO.pdf" "LIVRO" 1582744416
   "/home/edlab/.texlive2017/texmf-var/luatex-cache/generic/fonts/otl/linlibertine-r.luc" 1568389827 330559 8015d189746fd34549af425155e1e6e6 ""
   "/home/edlab/.texlive2017/texmf-var/luatex-cache/generic/fonts/otl/linlibertine-rb.luc" 1568389827 287959 d5887f4d1b939889089730c9a54a54da ""
   "/home/edlab/.texlive2017/texmf-var/luatex-cache/generic/fonts/otl/linlibertine-rbi.luc" 1568389827 219520 6fa7a4848f8db3261ce34a95f9e81fd5 ""
@@ -228,7 +228,7 @@
   "/var/lib/texmf/tex/generic/config/language.dat" 1568390393 5068 f7f3bc7f417c156a3f8ad000ec95e50f ""
   "/var/lib/texmf/web2c/luatex/lualatex.fmt" 1568390407 1349090 037f174be86cf28c8ddf3a93c1b55c78 ""
   "CIRCUITO.jpg" 1581433626 185488 00e49767905e0d07d9e5eb5b20156085 ""
-  "INPUTS.aux" 1581433639 6469 95bc5900c0d195d94ae2ed5324500e53 ""
+  "INPUTS.aux" 1582744415 6469 95bc5900c0d195d94ae2ed5324500e53 ""
   "INPUTS.tex" 1581433626 49 e2c82c43300e278d45203251f29467e3 ""
   "Imgs/img10.jpg" 1581433628 51807 f5dece1a52b0300aef9f2e30ca7c6fb3 ""
   "Imgs/img11.jpg" 1581433628 331356 e2486eed34b81c68d5bd7c296447b4b4 ""
@@ -241,12 +241,12 @@
   "Imgs/img7.jpg" 1581433628 95236 310908fe50123ac535586cd016eb7e53 ""
   "Imgs/img8.jpg" 1581433628 162068 b696d1f9cd3953671ed252a7b14c0786 ""
   "Imgs/img9.jpg" 1581433628 126147 4a7db33679dd80924c1375ea7e9df87b ""
-  "LIVRO.aux" 1581433639 373 185e62f93b962787cd15b450d2f87f41 ""
+  "LIVRO.aux" 1582744415 373 185e62f93b962787cd15b450d2f87f41 ""
   "LIVRO.tex" 1581433628 2302 4737b71023d41a46e15f90bcac88f90d ""
-  "LIVRO.toc" 1581433639 3352 fd9dc2f3ee80c5e467db81ac067c3b15 ""
+  "LIVRO.toc" 1582744415 3352 fd9dc2f3ee80c5e467db81ac067c3b15 ""
   "ORIGINAIS.tex" 1581433628 266974 bd6be0726bc631d487df42f96a6856be ""
   "PRETAS.tex" 1581433628 1465 ed05fc0adf16186647c3712b0adef82e ""
-  "fichatecnica.sty" 1581433626 2249 4087e6ebea3467edf7977e02e862228a ""
+  "fichatecnica.sty" 1582744407 2249 5df3915f0b5018aaff115f21136937a9 ""
   "fronthedra.tex" 1581433628 6084 65cd24a2bba42cafd5a68435a9550595 ""
   "gitrevisioninfo.sty" 1581433628 35 c2525ec0c657dd3f51e8a2a2a4ba66fa ""
   "hedraextra.sty" 1562862786 6390 65a9b8588c7612c4e2512564697fa8c1 ""
@@ -255,7 +255,7 @@
   "tipografia.sty" 1581433628 9907 baf9582d169519b5dcad3d86821ad837 ""
   (generated)
   "INPUTS.aux"
-  "LIVRO.aux"
-  "LIVRO.toc"
   "LIVRO.log"
   "LIVRO.pdf"
+  "LIVRO.aux"
+  "LIVRO.toc"
