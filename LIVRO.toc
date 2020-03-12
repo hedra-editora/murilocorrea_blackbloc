@@ -1,4 +1,4 @@
-\babel@toc {brazilian}{}
+\select@language {brazilian}
 \hyphenpenalty =10000\thispagestyle {empty}
 \contentsline {chapter}{Apresentação, \relax \fontsize {8}{9.5}\selectfont \abovedisplayskip 6\p@ plus2\p@ minus4\p@ \abovedisplayshortskip \z@ plus\p@ \belowdisplayshortskip 3\p@ plus\p@ minus2\p@ \def \leftmargin \leftmargini \parsep \parsepi \topsep \topsepi \itemsep \itemsepi {\leftmargin \leftmargini \topsep 3\p@ plus\p@ minus\p@ \parsep 2\p@ plus\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip {\emph {por Bruno Cava}}}{11}
 \contentsline {chapter}{Prefácio, \relax \fontsize {8}{9.5}\selectfont \abovedisplayskip 6\p@ plus2\p@ minus4\p@ \abovedisplayshortskip \z@ plus\p@ \belowdisplayshortskip 3\p@ plus\p@ minus2\p@ \def \leftmargin \leftmargini \parsep \parsepi \topsep \topsepi \itemsep \itemsepi {\leftmargin \leftmargini \topsep 3\p@ plus\p@ minus\p@ \parsep 2\p@ plus\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip {\emph {por Peter Pál Pelbart}}}{15}
