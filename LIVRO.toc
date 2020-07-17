@@ -1,8 +1,8 @@
 \babel@toc {brazilian}{}
 \hyphenpenalty =10000\thispagestyle {empty}
-\contentsline {chapter}{Apresentação, \relax \fontsize {8}{9.5}\selectfont \abovedisplayskip 6\p@ plus2\p@ minus4\p@ \abovedisplayshortskip \z@ plus\p@ \belowdisplayshortskip 3\p@ plus\p@ minus2\p@ \def \leftmargin \leftmargini \parsep \parsepi \topsep \topsepi \itemsep \itemsepi {\leftmargin \leftmargini \topsep 3\p@ plus\p@ minus\p@ \parsep 2\p@ plus\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip {\emph {por Bruno Cava}}}{11}
-\contentsline {chapter}{Prefácio, \relax \fontsize {8}{9.5}\selectfont \abovedisplayskip 6\p@ plus2\p@ minus4\p@ \abovedisplayshortskip \z@ plus\p@ \belowdisplayshortskip 3\p@ plus\p@ minus2\p@ \def \leftmargin \leftmargini \parsep \parsepi \topsep \topsepi \itemsep \itemsepi {\leftmargin \leftmargini \topsep 3\p@ plus\p@ minus\p@ \parsep 2\p@ plus\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip {\emph {por Peter Pál Pelbart}}}{15}
-\contentsline {part}{Filosofia black bloc}{17}
+\contentsline {chapter}{Apresentação, \emph {por Bruno Cava}}{11}
+\contentsline {chapter}{Prefácio, \emph {por Peter Pál Pelbart}}{15}
+\contentsline {part}{\textsc {filosofia black bloc}}{17}
 \contentsline {chapter}{Manual de Junho}{19}
 \contentsline {section}{O Estado contra o black bloc}{20}
 \contentsline {section}{Pensar o black bloc}{24}
@@ -13,11 +13,11 @@
 \contentsline {subsection}{As pessoas na sala de jantar}{33}
 \contentsline {section}{Soltei os tigres e os leões nos quintais}{41}
 \contentsline {subsection}{Mapa}{41}
-\contentsline {chapter}{Contra o rosto}{48}
-\contentsline {section}{\dots {} e o que me resta é só um gemido}{49}
-\contentsline {section}{Minh'alma cativa}{50}
-\contentsline {section}{Quebrei a lança, lancei no espaço: um grito}{58}
-\contentsline {section}{``Não tinha rosto. Eu oferecia meu corpo''}{62}
+\contentsline {chapter}{Contra o rosto}{47}
+\contentsline {section}{\dots {} e o que me resta é só um gemido}{48}
+\contentsline {section}{Minh'alma cativa}{49}
+\contentsline {section}{Quebrei a lança, lancei no espaço: um grito}{57}
+\contentsline {section}{``Não tinha rosto. Eu oferecia meu corpo''}{61}
 \contentsline {chapter}{Filosofia dos corpos misturados}{67}
 \contentsline {section}{Vamos pôr um cu na vitrine}{68}
 \contentsline {subsection}{A história do olho}{68}
