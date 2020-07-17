@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.0.4 (TeX Live 2017/Debian)  (format=lualatex 2019.9.13)  17 JUL 2020 17:47
+This is LuaTeX, Version 1.0.4 (TeX Live 2017/Debian)  (format=lualatex 2019.9.13)  17 JUL 2020 19:42
  restricted system commands enabled.
 **LIVRO.tex
 (./LIVRO.tex
@@ -34,7 +34,7 @@ Inserting `luaotfload.aux.set_capheight' at position 3 in `luaotfload.patch_font
 '.
 Inserting `luaotfload.rewrite_fontname' at position 4 in `luaotfload.patch_font'
 .
-luaotfload | main : initialization completed in 0.107 seconds
+luaotfload | main : initialization completed in 0.117 seconds
 Babel <3.18> and hyphenation patterns for 1 language(s) loaded.
 (/usr/share/texlive/texmf-dist/tex/latex/memoir/memoir.cls
 Document Class: memoir 2016/05/16 v3.7f configurable book, report, article docum
@@ -1800,7 +1800,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 <Imgs/img7.jpg, id=256, 673.51625pt x 466.74374pt>
 File: Imgs/img7.jpg Graphic file (type jpg)
 <use Imgs/img7.jpg>
-Package luatex.def Info: Imgs/img7.jpg  used on input line 1952.
+Package luatex.def Info: Imgs/img7.jpg  used on input line 1951.
 (luatex.def)             Requested size: 256.07243pt x 173.56136pt.
  [78] [79<./Imgs/img7.jpg>] [80] [81] [82] [83] [84]
 [85] [86] [87] [88
@@ -1809,14 +1809,14 @@ Package luatex.def Info: Imgs/img7.jpg  used on input line 1952.
 <Imgs/img8.jpg, id=291, 803.0pt x 602.25pt>
 File: Imgs/img8.jpg Graphic file (type jpg)
 <use Imgs/img8.jpg>
-Package luatex.def Info: Imgs/img8.jpg  used on input line 2216.
+Package luatex.def Info: Imgs/img8.jpg  used on input line 2215.
 (luatex.def)             Requested size: 256.08305pt x 173.56364pt.
  [89<./Imgs/img8.jpg>] [90] [91] [92] [93] [94] [95]
 [96] [97] [98] [99] [100] [101]
 <Imgs/img9.jpg, id=334, 702.625pt x 468.75125pt>
 File: Imgs/img9.jpg Graphic file (type jpg)
 <use Imgs/img9.jpg>
-Package luatex.def Info: Imgs/img9.jpg  used on input line 2615.
+Package luatex.def Info: Imgs/img9.jpg  used on input line 2614.
 (luatex.def)             Requested size: 256.07538pt x 173.55682pt.
  [102<./Imgs/img9.jpg>] [103] [104] [105]
 [106] [107] [108] [109] [110] [111] [112] [113] [114
@@ -1825,14 +1825,14 @@ Package luatex.def Info: Imgs/img9.jpg  used on input line 2615.
 <Imgs/img10.jpg, id=375, 434.62375pt x 652.4375pt>
 File: Imgs/img10.jpg Graphic file (type jpg)
 <use Imgs/img10.jpg>
-Package luatex.def Info: Imgs/img10.jpg  used on input line 2945.
+Package luatex.def Info: Imgs/img10.jpg  used on input line 2944.
 (luatex.def)             Requested size: 227.62381pt x 304.45547pt.
  [115<./Imgs/img10.jpg>]
 [116] [117] [118] [119] [120] [121] [122] [123]
 <Imgs/img11.jpg, id=404, 642.4pt x 963.6pt>
 File: Imgs/img11.jpg Graphic file (type jpg)
 <use Imgs/img11.jpg>
-Package luatex.def Info: Imgs/img11.jpg  used on input line 3212.
+Package luatex.def Info: Imgs/img11.jpg  used on input line 3211.
 (luatex.def)             Requested size: 256.08305pt x 310.69614pt.
 
 
@@ -1845,7 +1845,7 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 <Imgs/img12.jpg, id=451, 572.1375pt x 963.6pt>
 File: Imgs/img12.jpg Graphic file (type jpg)
 <use Imgs/img12.jpg>
-Package luatex.def Info: Imgs/img12.jpg  used on input line 3594.
+Package luatex.def Info: Imgs/img12.jpg  used on input line 3593.
 (luatex.def)             Requested size: 199.16858pt x 332.89816pt.
  [139<./Imgs/img12.jpg>] [140] [141]
 [142] [143] [144] [145] [146] [147] [148] [149] [150] [151] [152] [153]
@@ -1876,10 +1876,10 @@ Here is how much of LuaTeX's memory you used:
  1397397 words of node memory still in use:
    4 hlist, 1 vlist, 1 rule, 36 glue, 1 penalty, 222857 glyph, 25236 attribute, 
 195 glue_spec, 4206 attribute_list, 3 shape, 2 write nodes
-   avail lists: 1:4,2:919,3:145,4:60,5:413,6:1550,7:1541,8:113,9:257,10:30,11:61
+   avail lists: 1:4,2:919,3:146,4:61,5:413,6:1550,7:1540,8:113,9:257,10:30,11:61
 1
  27637 multiletter control sequences out of 65536+600000
- 109 fonts using 21811855 bytes
+ 109 fonts using 21811927 bytes
  50i,12n,85p,1356b,428s stack positions out of 5000i,500n,10000p,200000b,100000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/adforn/OrnementsADF.enc}</usr/sha
 re/texlive/texmf-dist/fonts/opentype/public/libertine/LinLibertine_RI.otf></usr/
@@ -1889,7 +1889,7 @@ sr/share/texlive/texmf-dist/fonts/opentype/public/libertine/LinLibertine_R.otf><
 e/texmf-dist/fonts/type1/arkandis/adforn/OrnementsADF.pfb></usr/share/texlive/te
 xmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texlive/texmf-dist
 /fonts/type1/public/amsfonts/latxfont/lcirclew.pfb>
-Output written on LIVRO.pdf (164 pages, 5376009 bytes).
+Output written on LIVRO.pdf (164 pages, 5376074 bytes).
 
 PDF statistics: 573 PDF objects out of 1000 (max. 8388607)
  375 compressed objects within 4 object streams
