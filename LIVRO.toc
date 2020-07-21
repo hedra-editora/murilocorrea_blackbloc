@@ -46,5 +46,5 @@
 \contentsline {section}{Devir"-ninguém}{143}
 \contentsline {section}{Devir"-qualquer um}{146}
 \contentsline {section}{Devir"-todo mundo}{150}
-\contentsline {chapter}{Procuram-se armas}{155}
+\contentsline {chapter}{\MakeTextLowercase {\MakeUppercase {P}rocuram-se armas}}{155}
 \contentsfinish 
