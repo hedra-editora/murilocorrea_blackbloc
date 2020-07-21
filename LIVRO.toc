@@ -14,10 +14,10 @@
 \contentsline {section}{Soltei os tigres e os leões nos quintais}{41}
 \contentsline {subsection}{Mapa}{41}
 \contentsline {chapter}{Contra o rosto}{47}
-\contentsline {section}{\dots {} e o que me resta é só um gemido}{48}
+\contentsline {section}{E o que me resta é só um gemido}{48}
 \contentsline {section}{Minh'alma cativa}{49}
-\contentsline {section}{Quebrei a lança, lancei no espaço: um grito}{57}
-\contentsline {section}{``Não tinha rosto. Eu oferecia meu corpo''}{61}
+\contentsline {section}{Quebrei a lança, lancei no espaço}{57}
+\contentsline {section}{«Não tinha rosto. Eu oferecia meu corpo»}{61}
 \contentsline {chapter}{Filosofia dos corpos misturados}{67}
 \contentsline {section}{Vamos pôr um cu na vitrine}{68}
 \contentsline {subsection}{A história do olho}{68}
@@ -46,5 +46,5 @@
 \contentsline {section}{Devir"-ninguém}{143}
 \contentsline {section}{Devir"-qualquer um}{146}
 \contentsline {section}{Devir"-todo mundo}{150}
-\contentsline {chapter}{Procuram"-se armas}{155}
+\contentsline {chapter}{Procuram-se armas}{155}
 \contentsfinish 

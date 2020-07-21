@@ -1,4 +1,4 @@
-\documentclass[semcabeco,showtrims,10pt,conselho,spreadimages]{memoir}
+\documentclass[showtrims,10pt,conselho,spreadimages]{memoir}
 
 \usepackage[post]{hedraoptions} 
 \usepackage[baruch]{hedrastyles}
@@ -19,18 +19,24 @@
 
 \linespread{1.15}
 
+\trimFrame
+
 \setcounter{tocdepth}{1}     % amplitude da presença das partes no índice
 \setcounter{secnumdepth}{-2} % amplitude da numeração das partes
 
 \makeatletter
 
-\def\footnoterule{\kern-8\p@
-    \hrule \@width 2in \kern 7.6\p@} % the \hrule is .4pt high
+%\def\footnoterule{\kern-8\p@
+    %\hrule \@width 2in \kern 7.6\p@} % the \hrule is .4pt high
+
+\def\@xfootnote[#1]{%
+  \protected@xdef\@thefnmark{#1}%
+  \@footnotemark\@footnotetext}
 
 %\renewcommand{\foottextfont}{\small}
 %\footmarkstyle{\normalfont{\raisebox{3pt}{\tiny#1}}}
 %\def\@makefnmark#1{{\tiny \raisebox{3pt}{\@thefnmark}}}
-\skip\footins=10mm\@plus3mm\@minus2mm
+\skip\footins=10mm\@plus3mm\@minus5mm
 \makeatother
 
 \hyphenation{bio-po-lí-ti-ca}

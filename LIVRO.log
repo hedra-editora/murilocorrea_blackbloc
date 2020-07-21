@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.0.4 (TeX Live 2017/Debian)  (format=lualatex 2019.9.13)  17 JUL 2020 19:42
+This is LuaTeX, Version 1.0.4 (TeX Live 2017/Debian)  (format=lualatex 2019.9.13)  21 JUL 2020 15:14
  restricted system commands enabled.
 **LIVRO.tex
 (./LIVRO.tex
@@ -34,7 +34,7 @@ Inserting `luaotfload.aux.set_capheight' at position 3 in `luaotfload.patch_font
 '.
 Inserting `luaotfload.rewrite_fontname' at position 4 in `luaotfload.patch_font'
 .
-luaotfload | main : initialization completed in 0.117 seconds
+luaotfload | main : initialization completed in 0.105 seconds
 Babel <3.18> and hyphenation patterns for 1 language(s) loaded.
 (/usr/share/texlive/texmf-dist/tex/latex/memoir/memoir.cls
 Document Class: memoir 2016/05/16 v3.7f configurable book, report, article docum
@@ -385,8 +385,8 @@ Top and edge trims: 56.9055pt and 118.07893pt
 Page height and width: 543.44763pt by 361.34999pt
 Text height and width: 430pt by 264pt
 Spine and edge margins: 48.63591pt and 48.10345pt
-Upper and lower margins: 41.41235pt and 72.03528pt
-Headheight and headsep: 12pt and 0pt
+Upper and lower margins: 46.1731pt and 67.27454pt
+Headheight and headsep: 12pt and 14.22636pt
 Footskip: 25.29494pt
 Columnsep and columnseprule: 10pt and 0pt
 Marginparsep and marginparwidth: 0pt and 66.15265pt
@@ -1542,36 +1542,36 @@ Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
 (./INPUTS.aux))
 \openout1 = LIVRO.aux
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 88.
-LaTeX Font Info:    ... okay on input line 88.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 88.
-LaTeX Font Info:    ... okay on input line 88.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 88.
-LaTeX Font Info:    ... okay on input line 88.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 88.
-LaTeX Font Info:    ... okay on input line 88.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 88.
-LaTeX Font Info:    ... okay on input line 88.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 88.
-LaTeX Font Info:    ... okay on input line 88.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 88.
-LaTeX Font Info:    ... okay on input line 88.
-LaTeX Font Info:    Checking defaults for LGR/cmr/m/n on input line 88.
-LaTeX Font Info:    Try loading font information for LGR+cmr on input line 88.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 94.
+LaTeX Font Info:    ... okay on input line 94.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 94.
+LaTeX Font Info:    ... okay on input line 94.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 94.
+LaTeX Font Info:    ... okay on input line 94.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 94.
+LaTeX Font Info:    ... okay on input line 94.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 94.
+LaTeX Font Info:    ... okay on input line 94.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 94.
+LaTeX Font Info:    ... okay on input line 94.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 94.
+LaTeX Font Info:    ... okay on input line 94.
+LaTeX Font Info:    Checking defaults for LGR/cmr/m/n on input line 94.
+LaTeX Font Info:    Try loading font information for LGR+cmr on input line 94.
  (/usr/share/texlive/texmf-dist/tex/latex/cbfonts-fd/lgrcmr.fd
 File: lgrcmr.fd 2017/07/29 v1.2 Greek European Computer Regular
 )
-LaTeX Font Info:    ... okay on input line 88.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 88.
-LaTeX Font Info:    Try loading font information for TS1+cmr on input line 88.
+LaTeX Font Info:    ... okay on input line 94.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 94.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 94.
 
 (/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 88.
-LaTeX Info: Redefining \dots on input line 88.
-LaTeX Info: Redefining \up on input line 88.
-LaTeX Info: Redefining \microtypecontext on input line 88.
+LaTeX Font Info:    ... okay on input line 94.
+LaTeX Info: Redefining \dots on input line 94.
+LaTeX Info: Redefining \up on input line 94.
+LaTeX Info: Redefining \microtypecontext on input line 94.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
@@ -1592,64 +1592,64 @@ Package microtype Info: Loading generic protrusion settings for font family
 .................................................
 \symlegacymaths=\mathgroup7
 LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
-(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 88.
-LaTeX Font Info:    Redeclaring math accent \acute on input line 88.
-LaTeX Font Info:    Redeclaring math accent \grave on input line 88.
-LaTeX Font Info:    Redeclaring math accent \ddot on input line 88.
-LaTeX Font Info:    Redeclaring math accent \tilde on input line 88.
-LaTeX Font Info:    Redeclaring math accent \bar on input line 88.
-LaTeX Font Info:    Redeclaring math accent \breve on input line 88.
-LaTeX Font Info:    Redeclaring math accent \check on input line 88.
-LaTeX Font Info:    Redeclaring math accent \hat on input line 88.
-LaTeX Font Info:    Redeclaring math accent \dot on input line 88.
-LaTeX Font Info:    Redeclaring math accent \mathring on input line 88.
-LaTeX Font Info:    Redeclaring math symbol \colon on input line 88.
-LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 88.
-LaTeX Font Info:    Redeclaring math symbol \Delta on input line 88.
-LaTeX Font Info:    Redeclaring math symbol \Theta on input line 88.
-LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 88.
-LaTeX Font Info:    Redeclaring math symbol \Xi on input line 88.
-LaTeX Font Info:    Redeclaring math symbol \Pi on input line 88.
-LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 88.
-LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 88.
-LaTeX Font Info:    Redeclaring math symbol \Phi on input line 88.
-LaTeX Font Info:    Redeclaring math symbol \Psi on input line 88.
-LaTeX Font Info:    Redeclaring math symbol \Omega on input line 88.
-LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 88.
-LaTeX Font Info:    Redeclaring symbol font `operators' on input line 88.
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 94.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 94.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 94.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 94.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 94.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 94.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 94.
+LaTeX Font Info:    Redeclaring math accent \check on input line 94.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 94.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 94.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 94.
+LaTeX Font Info:    Redeclaring math symbol \colon on input line 94.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 94.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 94.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 94.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 94.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 94.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 94.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 94.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 94.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 94.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 94.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 94.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 94.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 94.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `normal' on input line 88.
+(Font)              `operators' in the math version `normal' on input line 94.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
 (Font)                  OT1/cmr/m/n --> TU/LinuxLibertineO(0)/m/n on input line 
-88.
+94.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `bold' on input line 88.
+(Font)              `operators' in the math version `bold' on input line 94.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
 (Font)                  OT1/cmr/bx/n --> TU/LinuxLibertineO(0)/m/n on input line
- 88.
+ 94.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
 (Font)                  TU/LinuxLibertineO(0)/m/n --> TU/LinuxLibertineO(0)/m/n 
-on input line 88.
+on input line 94.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
 (Font)                  OT1/cmr/m/it --> TU/LinuxLibertineO(0)/m/it on input lin
-e 88.
+e 94.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
 (Font)                  OT1/cmr/bx/n --> TU/LinuxLibertineO(0)/bx/n on input lin
-e 88.
+e 94.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 88.
+(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 94.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 88.
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 94.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
 (Font)                  TU/LinuxLibertineO(0)/m/n --> TU/LinuxLibertineO(0)/bx/n
- on input line 88.
+ on input line 94.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
 (Font)                  OT1/cmr/bx/it --> TU/LinuxLibertineO(0)/bx/it on input l
-ine 88.
+ine 94.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> TU/lmss/bx/n on input line 88.
+(Font)                  OT1/cmss/bx/n --> TU/lmss/bx/n on input line 94.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/bx/n on input line 88.
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/bx/n on input line 94.
 
 (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -1694,26 +1694,26 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
 Package lastpage Info: Please have a look at the pageslts package at
 (lastpage)             https://www.ctan.org/pkg/pageslts
-(lastpage)             ! on input line 88.
+(lastpage)             ! on input line 94.
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: rotating package is loaded.
 Package caption Info: xtab package is loaded.
 Package caption Info: End \AtBeginDocument code.
-(load luc: /home/edlab/.texlive2017/texmf-var/luatex-cache/generic/fonts/otl/lmm
-ono10-regular.luc)
-Package microtype Info: Loading generic protrusion settings for font family
-(microtype)             `lmtt' (encoding: TU).
-(microtype)             For optimal results, create family-specific settings.
-(microtype)             See the microtype manual for details.
-(load luc: /home/edlab/.texlive2017/texmf-var/luatex-cache/generic/fonts/otl/lmm
-ono8-regular.luc) [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
+<lettering.jpg, id=1, 455.301pt x 332.9238pt>
+File: lettering.jpg Graphic file (type jpg)
+<use lettering.jpg>
+Package luatex.def Info: lettering.jpg  used on input line 94.
+(luatex.def)             Requested size: 264.0pt x 193.04512pt.
 
-]
+[1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
+
+<./lettering.jpg>]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 88.
+(Font)              <6> on input line 94.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 88.
- (/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-cmr.cfg
+(Font)              <5> on input line 94.
+
+(/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-cmr.cfg
 File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman (
 RS)
 ) [2
@@ -1722,23 +1722,22 @@ RS)
 <./logo_hedra.jpg, id=14, 1113.15875pt x 347.2975pt>
 File: ./logo_hedra.jpg Graphic file (type jpg)
 <use ./logo_hedra.jpg>
-Package luatex.def Info: ./logo_hedra.jpg  used on input line 88.
+Package luatex.def Info: ./logo_hedra.jpg  used on input line 94.
 (luatex.def)             Requested size: 56.9055pt x 17.75273pt.
 <CIRCUITO.jpg, id=15, 846.91406pt x 401.43727pt>
 File: CIRCUITO.jpg Graphic file (type jpg)
 <use CIRCUITO.jpg>
-Package luatex.def Info: CIRCUITO.jpg  used on input line 88.
+Package luatex.def Info: CIRCUITO.jpg  used on input line 94.
 (luatex.def)             Requested size: 56.9055pt x 26.97026pt.
-
-[3<./logo_hedra.jpg><./CIRCUITO.jpg>] (./PRETAS.tex
+ [3<./logo_hedra.jpg><./CIRCUITO.jpg>] (./PRETAS.tex
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <8> on input line 2.
 ) [4
 
-] (./LIVRO.toc [5])
-[6]
+] (./LIVRO.toc [5]) [6]
 \openout2 = INPUTS.aux
- (./INPUTS.tex (./ORIGINAIS.tex [7
+
+(./INPUTS.tex (./ORIGINAIS.tex [7
 
 
 
@@ -1746,19 +1745,30 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 
 ]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 68.
+(Font)              <7> on input line 69.
  [11] [12] [13] [14
 
 ]
+Overfull \vbox (10.10081pt too high) has occurred while \output is active []
+
+
 [15] [16] [17
 
 ] [18] [19
 
-] [20] [21] [22] [23] [24] [25] [26]
+]
+Overfull \vbox (3.02254pt too high) has occurred while \output is active []
+
+
+[20] [21] [22] [23] [24]
+Overfull \vbox (13.2749pt too high) has occurred while \output is active []
+
+
+[25] [26]
 <Imgs/img2.jpg, id=91, 963.6pt x 642.4pt>
 File: Imgs/img2.jpg Graphic file (type jpg)
 <use Imgs/img2.jpg>
-Package luatex.def Info: Imgs/img2.jpg  used on input line 462.
+Package luatex.def Info: Imgs/img2.jpg  used on input line 465.
 (luatex.def)             Requested size: 256.07324pt x 173.55814pt.
  [27<./Imgs/img2.jpg>] [28] [29] [30
 
@@ -1766,101 +1776,159 @@ Package luatex.def Info: Imgs/img2.jpg  used on input line 462.
 <Imgs/img3.jpg, id=104, 963.6pt x 642.4pt>
 File: Imgs/img3.jpg Graphic file (type jpg)
 <use Imgs/img3.jpg>
-Package luatex.def Info: Imgs/img3.jpg  used on input line 526.
+Package luatex.def Info: Imgs/img3.jpg  used on input line 529.
 (luatex.def)             Requested size: 256.07324pt x 173.55814pt.
- [31<./Imgs/img3.jpg>] [32] [33] [34] [35] [36] [37] [38]
+ [31<./Imgs/img3.jpg>] [32]
+[33] [34] [35] [36]
+Overfull \vbox (8.97498pt too high) has occurred while \output is active []
+
+
+[37] [38]
+Overfull \vbox (10.57448pt too high) has occurred while \output is active []
+
+
 [39] [40]
 <Imgs/img4.jpg, id=137, 963.6pt x 642.4pt>
 File: Imgs/img4.jpg Graphic file (type jpg)
 <use Imgs/img4.jpg>
-Package luatex.def Info: Imgs/img4.jpg  used on input line 832.
+Package luatex.def Info: Imgs/img4.jpg  used on input line 835.
 (luatex.def)             Requested size: 256.07324pt x 173.55814pt.
  [41<./Imgs/img4.jpg>] [42] [43] [44] [45] [46]
 <Imgs/img5.jpg, id=157, 4005.96625pt x 5223.515pt>
 File: Imgs/img5.jpg Graphic file (type jpg)
 <use Imgs/img5.jpg>
-Package luatex.def Info: Imgs/img5.jpg  used on input line 993.
+Package luatex.def Info: Imgs/img5.jpg  used on input line 996.
 (luatex.def)             Requested size: 206.11702pt x 313.47708pt.
  [47
 
 <./Imgs/img5.jpg>]
-[48] [49] [50] [51] [52] [53] [54] [55] [56] [57] [58] [59] [60] [61] [62]
+[48] [49]
+Overfull \vbox (6.27455pt too high) has occurred while \output is active []
+
+
+[50] [51] [52] [53]
+Overfull \vbox (14.17505pt too high) has occurred while \output is active []
+
+
+[54]
+Overfull \vbox (11.47461pt too high) has occurred while \output is active []
+
+
+[55] [56] [57] [58] [59]
+Overfull \vbox (5.37439pt too high) has occurred while \output is active []
+
+
+[60] [61]
+Overfull \vbox (19.17432pt too high) has occurred while \output is active []
+
+
+[62]
+Overfull \vbox (2.88551pt too high) has occurred while \output is active []
+
+
 [63] [64] [65] [66
 
 ]
 <Imgs/img6.jpg, id=221, 577.15625pt x 598.235pt>
 File: Imgs/img6.jpg Graphic file (type jpg)
 <use Imgs/img6.jpg>
-Package luatex.def Info: Imgs/img6.jpg  used on input line 1577.
+Package luatex.def Info: Imgs/img6.jpg  used on input line 1581.
 (luatex.def)             Requested size: 256.08075pt x 301.59967pt.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 1584.
- [67<./Imgs/img6.jpg>] [68] [69] [70] [71] [72] [73]
-[74] [75] [76] [77]
+(Font)              <10.95> on input line 1588.
+ [67<./Imgs/img6.jpg>]
+Overfull \vbox (1.29037pt too high) has occurred while \output is active []
+
+
+[68]
+Overfull \vbox (10.77528pt too high) has occurred while \output is active []
+
+
+[69] [70] [71] [72] [73] [74] [75] [76] [77]
 <Imgs/img7.jpg, id=256, 673.51625pt x 466.74374pt>
 File: Imgs/img7.jpg Graphic file (type jpg)
 <use Imgs/img7.jpg>
-Package luatex.def Info: Imgs/img7.jpg  used on input line 1951.
+Package luatex.def Info: Imgs/img7.jpg  used on input line 1955.
 (luatex.def)             Requested size: 256.07243pt x 173.56136pt.
- [78] [79<./Imgs/img7.jpg>] [80] [81] [82] [83] [84]
-[85] [86] [87] [88
+ [78]
+Overfull \vbox (9.50685pt too high) has occurred while \output is active []
+
+
+[79<./Imgs/img7.jpg>] [80]
+Overfull \vbox (14.87439pt too high) has occurred while \output is active []
+
+
+[81] [82] [83] [84] [85] [86] [87] [88
 
 ]
 <Imgs/img8.jpg, id=291, 803.0pt x 602.25pt>
 File: Imgs/img8.jpg Graphic file (type jpg)
 <use Imgs/img8.jpg>
-Package luatex.def Info: Imgs/img8.jpg  used on input line 2215.
+Package luatex.def Info: Imgs/img8.jpg  used on input line 2219.
 (luatex.def)             Requested size: 256.08305pt x 173.56364pt.
- [89<./Imgs/img8.jpg>] [90] [91] [92] [93] [94] [95]
-[96] [97] [98] [99] [100] [101]
+ [89<./Imgs/img8.jpg>] [90] [91]
+[92] [93] [94] [95] [96] [97] [98] [99] [100] [101]
 <Imgs/img9.jpg, id=334, 702.625pt x 468.75125pt>
 File: Imgs/img9.jpg Graphic file (type jpg)
 <use Imgs/img9.jpg>
-Package luatex.def Info: Imgs/img9.jpg  used on input line 2614.
+Package luatex.def Info: Imgs/img9.jpg  used on input line 2618.
 (luatex.def)             Requested size: 256.07538pt x 173.55682pt.
- [102<./Imgs/img9.jpg>] [103] [104] [105]
-[106] [107] [108] [109] [110] [111] [112] [113] [114
+ [102<./Imgs/img9.jpg>]
+[103]
+Overfull \vbox (6.27454pt too high) has occurred while \output is active []
+
+
+[104] [105] [106] [107] [108] [109]
+Overfull \vbox (5.37439pt too high) has occurred while \output is active []
+
+
+[110]
+Overfull \vbox (6.47534pt too high) has occurred while \output is active []
+
+
+[111] [112] [113] [114
 
 ]
 <Imgs/img10.jpg, id=375, 434.62375pt x 652.4375pt>
 File: Imgs/img10.jpg Graphic file (type jpg)
 <use Imgs/img10.jpg>
-Package luatex.def Info: Imgs/img10.jpg  used on input line 2944.
+Package luatex.def Info: Imgs/img10.jpg  used on input line 2948.
 (luatex.def)             Requested size: 227.62381pt x 304.45547pt.
- [115<./Imgs/img10.jpg>]
-[116] [117] [118] [119] [120] [121] [122] [123]
+ [115<./Imgs/img10.jpg>] [116] [117] [118] [119]
+[120] [121] [122] [123]
 <Imgs/img11.jpg, id=404, 642.4pt x 963.6pt>
 File: Imgs/img11.jpg Graphic file (type jpg)
 <use Imgs/img11.jpg>
-Package luatex.def Info: Imgs/img11.jpg  used on input line 3211.
+Package luatex.def Info: Imgs/img11.jpg  used on input line 3215.
 (luatex.def)             Requested size: 256.08305pt x 310.69614pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[124] [125<./Imgs/img11.jpg>] [126] [127] [128] [129] [130] [131] [132]
-[133] [134] [135] [136] [137] [138
+[124] [125<./Imgs/img11.jpg>] [126] [127]
+Overfull \vbox (11.47461pt too high) has occurred while \output is active []
+
+
+[128] [129] [130] [131] [132] [133] [134] [135] [136] [137] [138
 
 ]
 <Imgs/img12.jpg, id=451, 572.1375pt x 963.6pt>
 File: Imgs/img12.jpg Graphic file (type jpg)
 <use Imgs/img12.jpg>
-Package luatex.def Info: Imgs/img12.jpg  used on input line 3593.
+Package luatex.def Info: Imgs/img12.jpg  used on input line 3597.
 (luatex.def)             Requested size: 199.16858pt x 332.89816pt.
- [139<./Imgs/img12.jpg>] [140] [141]
-[142] [143] [144] [145] [146] [147] [148] [149] [150] [151] [152] [153]
-[154] [155
-
-] [156] [157] [158] [159] [160] [161] [162])) [163]
+ [139<./Imgs/img12.jpg>] [140] [141] [142] [143] [144] [145] [146] [147] [148] 
+[149] [150]
+[151] [152] [153] [154] [155] [156] [157] [158] [159])) [160]
 
 AED: lastpage setting LastPage
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <9> on input line 92.
-(load luc: /home/edlab/.texlive2017/texmf-var/luatex-cache/generic/fonts/otl/lmm
-ono9-regular.luc) [164
+[161
 
 
 ]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <9> on input line 98.
+ [162]
 \tf@toc=\write5
 
 \openout5 = LIVRO.toc
@@ -1871,28 +1939,27 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 )
 
 Here is how much of LuaTeX's memory you used:
- 24727 strings out of 494480
- 1455496,794899 words of node,token memory allocated
- 1397397 words of node memory still in use:
-   4 hlist, 1 vlist, 1 rule, 36 glue, 1 penalty, 222857 glyph, 25236 attribute, 
-195 glue_spec, 4206 attribute_list, 3 shape, 2 write nodes
-   avail lists: 1:4,2:919,3:146,4:61,5:413,6:1550,7:1540,8:113,9:257,10:30,11:61
-1
- 27637 multiletter control sequences out of 65536+600000
- 109 fonts using 21811927 bytes
- 50i,12n,85p,1356b,428s stack positions out of 5000i,500n,10000p,200000b,100000s
+ 24717 strings out of 494480
+ 1455516,794899 words of node,token memory allocated
+ 1379961 words of node memory still in use:
+   4 hlist, 1 vlist, 1 rule, 36 glue, 1 penalty, 219909 glyph, 25344 attribute, 
+195 glue_spec, 4224 attribute_list, 3 shape, 2 write nodes
+   avail lists: 1:3,2:1312,3:142,4:74,5:414,6:1351,7:1540,8:109,9:244,10:30,11:6
+16
+ 27634 multiletter control sequences out of 65536+600000
+ 106 fonts using 21433663 bytes
+ 50i,14n,85p,1356b,564s stack positions out of 5000i,500n,10000p,200000b,100000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/adforn/OrnementsADF.enc}</usr/sha
 re/texlive/texmf-dist/fonts/opentype/public/libertine/LinLibertine_RI.otf></usr/
-share/texlive/texmf-dist/fonts/opentype/public/libertine/LinLibertine_RB.otf></u
-sr/share/texlive/texmf-dist/fonts/opentype/public/libertine/LinLibertine_R.otf><
-/usr/share/texmf/fonts/opentype/public/lm/lmmono8-regular.otf></usr/share/texliv
-e/texmf-dist/fonts/type1/arkandis/adforn/OrnementsADF.pfb></usr/share/texlive/te
-xmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texlive/texmf-dist
-/fonts/type1/public/amsfonts/latxfont/lcirclew.pfb>
-Output written on LIVRO.pdf (164 pages, 5376074 bytes).
+share/texlive/texmf-dist/fonts/opentype/public/libertine/LinLibertine_R.otf></us
+r/share/texlive/texmf-dist/fonts/opentype/public/libertine/LinLibertine_RB.otf><
+/usr/share/texlive/texmf-dist/fonts/type1/arkandis/adforn/OrnementsADF.pfb></usr
+/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/t
+exlive/texmf-dist/fonts/type1/public/amsfonts/latxfont/lcirclew.pfb>
+Output written on LIVRO.pdf (162 pages, 5931145 bytes).
 
-PDF statistics: 573 PDF objects out of 1000 (max. 8388607)
- 375 compressed objects within 4 object streams
+PDF statistics: 561 PDF objects out of 1000 (max. 8388607)
+ 367 compressed objects within 4 object streams
  0 named destinations out of 1000 (max. 131072)
  1 words of extra memory for PDF output out of 10000 (max. 100000000)
 
