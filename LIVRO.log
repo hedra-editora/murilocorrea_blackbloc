@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.0.4 (TeX Live 2017/Debian)  (format=lualatex 2019.9.13)  21 JUL 2020 16:39
+This is LuaTeX, Version 1.0.4 (TeX Live 2017/Debian)  (format=lualatex 2019.9.13)  27 JUL 2020 13:41
  restricted system commands enabled.
 **LIVRO.tex
 (./LIVRO.tex
@@ -34,7 +34,7 @@ Inserting `luaotfload.aux.set_capheight' at position 3 in `luaotfload.patch_font
 '.
 Inserting `luaotfload.rewrite_fontname' at position 4 in `luaotfload.patch_font'
 .
-luaotfload | main : initialization completed in 0.095 seconds
+luaotfload | main : initialization completed in 0.120 seconds
 Babel <3.18> and hyphenation patterns for 1 language(s) loaded.
 (/usr/share/texlive/texmf-dist/tex/latex/memoir/memoir.cls
 Document Class: memoir 2016/05/16 v3.7f configurable book, report, article docum
@@ -1719,17 +1719,17 @@ RS)
 ) [2
 
 ]
-<./logo_hedra.jpg, id=14, 1113.15875pt x 347.2975pt>
-File: ./logo_hedra.jpg Graphic file (type jpg)
-<use ./logo_hedra.jpg>
-Package luatex.def Info: ./logo_hedra.jpg  used on input line 94.
-(luatex.def)             Requested size: 56.9055pt x 17.75273pt.
+<./logo_hedra.png, id=14, 853.5087pt x 284.5029pt>
+File: ./logo_hedra.png Graphic file (type png)
+<use ./logo_hedra.png>
+Package luatex.def Info: ./logo_hedra.png  used on input line 94.
+(luatex.def)             Requested size: 56.9055pt x 18.96652pt.
 <CIRCUITO.jpg, id=15, 846.91406pt x 401.43727pt>
 File: CIRCUITO.jpg Graphic file (type jpg)
 <use CIRCUITO.jpg>
 Package luatex.def Info: CIRCUITO.jpg  used on input line 94.
 (luatex.def)             Requested size: 56.9055pt x 26.97026pt.
- [3<./logo_hedra.jpg><./CIRCUITO.jpg>] (./PRETAS.tex
+ [3<./logo_hedra.png><./CIRCUITO.jpg>] (./PRETAS.tex
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <8> on input line 2.
 ) [4
@@ -1765,7 +1765,7 @@ Overfull \vbox (13.2749pt too high) has occurred while \output is active []
 
 
 [25] [26]
-<Imgs/img2.jpg, id=91, 963.6pt x 642.4pt>
+<Imgs/img2.jpg, id=92, 963.6pt x 642.4pt>
 File: Imgs/img2.jpg Graphic file (type jpg)
 <use Imgs/img2.jpg>
 Package luatex.def Info: Imgs/img2.jpg  used on input line 464.
@@ -1773,7 +1773,7 @@ Package luatex.def Info: Imgs/img2.jpg  used on input line 464.
  [27<./Imgs/img2.jpg>] [28] [29] [30
 
 ]
-<Imgs/img3.jpg, id=104, 963.6pt x 642.4pt>
+<Imgs/img3.jpg, id=105, 963.6pt x 642.4pt>
 File: Imgs/img3.jpg Graphic file (type jpg)
 <use Imgs/img3.jpg>
 Package luatex.def Info: Imgs/img3.jpg  used on input line 528.
@@ -1788,13 +1788,13 @@ Overfull \vbox (1.07448pt too high) has occurred while \output is active []
 
 
 [39] [40]
-<Imgs/img4.jpg, id=137, 963.6pt x 642.4pt>
+<Imgs/img4.jpg, id=138, 963.6pt x 642.4pt>
 File: Imgs/img4.jpg Graphic file (type jpg)
 <use Imgs/img4.jpg>
 Package luatex.def Info: Imgs/img4.jpg  used on input line 831.
 (luatex.def)             Requested size: 256.07324pt x 173.55814pt.
  [41<./Imgs/img4.jpg>] [42] [43] [44] [45] [46]
-<Imgs/img5.jpg, id=157, 4005.96625pt x 5223.515pt>
+<Imgs/img5.jpg, id=158, 4005.96625pt x 5223.515pt>
 File: Imgs/img5.jpg Graphic file (type jpg)
 <use Imgs/img5.jpg>
 Package luatex.def Info: Imgs/img5.jpg  used on input line 992.
@@ -1825,7 +1825,7 @@ Overfull \vbox (19.17432pt too high) has occurred while \output is active []
 [62] [63] [64] [65] [66
 
 ]
-<Imgs/img6.jpg, id=221, 577.15625pt x 598.235pt>
+<Imgs/img6.jpg, id=222, 577.15625pt x 598.235pt>
 File: Imgs/img6.jpg Graphic file (type jpg)
 <use Imgs/img6.jpg>
 Package luatex.def Info: Imgs/img6.jpg  used on input line 1569.
@@ -1841,7 +1841,7 @@ Overfull \vbox (10.77528pt too high) has occurred while \output is active []
 
 
 [69] [70] [71] [72] [73] [74] [75] [76] [77]
-<Imgs/img7.jpg, id=256, 673.51625pt x 466.74374pt>
+<Imgs/img7.jpg, id=257, 673.51625pt x 466.74374pt>
 File: Imgs/img7.jpg Graphic file (type jpg)
 <use Imgs/img7.jpg>
 Package luatex.def Info: Imgs/img7.jpg  used on input line 1940.
@@ -1857,14 +1857,14 @@ Overfull \vbox (14.87439pt too high) has occurred while \output is active []
 [81] [82] [83] [84] [85] [86] [87] [88
 
 ]
-<Imgs/img8.jpg, id=291, 803.0pt x 602.25pt>
+<Imgs/img8.jpg, id=292, 803.0pt x 602.25pt>
 File: Imgs/img8.jpg Graphic file (type jpg)
 <use Imgs/img8.jpg>
 Package luatex.def Info: Imgs/img8.jpg  used on input line 2203.
 (luatex.def)             Requested size: 256.08305pt x 173.56364pt.
  [89<./Imgs/img8.jpg>] [90] [91]
 [92] [93] [94] [95] [96] [97] [98] [99] [100] [101]
-<Imgs/img9.jpg, id=334, 702.625pt x 468.75125pt>
+<Imgs/img9.jpg, id=335, 702.625pt x 468.75125pt>
 File: Imgs/img9.jpg Graphic file (type jpg)
 <use Imgs/img9.jpg>
 Package luatex.def Info: Imgs/img9.jpg  used on input line 2602.
@@ -1885,14 +1885,14 @@ Overfull \vbox (6.47534pt too high) has occurred while \output is active []
 [111] [112] [113] [114
 
 ]
-<Imgs/img10.jpg, id=375, 434.62375pt x 652.4375pt>
+<Imgs/img10.jpg, id=376, 434.62375pt x 652.4375pt>
 File: Imgs/img10.jpg Graphic file (type jpg)
 <use Imgs/img10.jpg>
 Package luatex.def Info: Imgs/img10.jpg  used on input line 2930.
 (luatex.def)             Requested size: 227.62381pt x 304.45547pt.
  [115<./Imgs/img10.jpg>] [116] [117] [118] [119]
 [120] [121] [122] [123]
-<Imgs/img11.jpg, id=404, 642.4pt x 963.6pt>
+<Imgs/img11.jpg, id=405, 642.4pt x 963.6pt>
 File: Imgs/img11.jpg Graphic file (type jpg)
 <use Imgs/img11.jpg>
 Package luatex.def Info: Imgs/img11.jpg  used on input line 3197.
@@ -1908,7 +1908,7 @@ Overfull \vbox (11.47461pt too high) has occurred while \output is active []
 [128] [129] [130] [131] [132] [133] [134] [135] [136] [137] [138
 
 ]
-<Imgs/img12.jpg, id=451, 572.1375pt x 963.6pt>
+<Imgs/img12.jpg, id=452, 572.1375pt x 963.6pt>
 File: Imgs/img12.jpg Graphic file (type jpg)
 <use Imgs/img12.jpg>
 Package luatex.def Info: Imgs/img12.jpg  used on input line 3578.
@@ -1945,7 +1945,7 @@ Here is how much of LuaTeX's memory you used:
    avail lists: 1:3,2:1256,3:141,4:74,5:416,6:1152,7:1540,8:109,9:244,10:30,11:6
 16
  27634 multiletter control sequences out of 65536+600000
- 106 fonts using 21433735 bytes
+ 106 fonts using 21433807 bytes
  50i,14n,85p,1356b,592s stack positions out of 5000i,500n,10000p,200000b,100000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/adforn/OrnementsADF.enc}</usr/sha
 re/texlive/texmf-dist/fonts/opentype/public/libertine/LinLibertine_RI.otf></usr/
@@ -1954,9 +1954,9 @@ r/share/texlive/texmf-dist/fonts/opentype/public/libertine/LinLibertine_RB.otf><
 /usr/share/texlive/texmf-dist/fonts/type1/arkandis/adforn/OrnementsADF.pfb></usr
 /share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/t
 exlive/texmf-dist/fonts/type1/public/amsfonts/latxfont/lcirclew.pfb>
-Output written on LIVRO.pdf (162 pages, 5928685 bytes).
+Output written on LIVRO.pdf (162 pages, 5944770 bytes).
 
-PDF statistics: 561 PDF objects out of 1000 (max. 8388607)
+PDF statistics: 562 PDF objects out of 1000 (max. 8388607)
  367 compressed objects within 4 object streams
  0 named destinations out of 1000 (max. 131072)
  1 words of extra memory for PDF output out of 10000 (max. 100000000)
